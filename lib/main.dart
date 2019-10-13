@@ -4,6 +4,8 @@ import 'package:provider/provider.dart';
 import './providers/great_places.dart';
 import './screens/places_list_screen.dart';
 
+// PlaceList & Place Provider Setup.
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
